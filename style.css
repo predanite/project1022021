@@ -1,0 +1,41 @@
+.accuracy{
+    color: rgb(255, 255, 255);
+    background-color: darkgoldenrod;
+    font-family: sans-serif;
+    font-size: xx-large;
+}
+.object {
+    color: rgb(255, 0, 0);
+    background-color: rgb(20, 94, 255);
+    font-family: sans-serif;
+    font-size: xx-large;
+}
+.accurate_answer{
+    color: rgb(0, 255, 42);
+    background-color: rgb(235, 82, 227);
+    font-family: sans-serif;
+    font-size: xx-large;
+}
+.name {
+    color: rgb(255, 255, 255);
+    background-color: rgb(21, 255, 0);
+    font-family: sans-serif;
+    font-size: xx-large;
+}
+body{
+    background-image:url("new\ guy.jpg");
+}
+#last{
+    position: fixed ;
+    bottom: 0;
+    text-align: left;
+    text-size-adjust: 100px;
+}
+#dumdum{
+    width: 300px;
+    height: 150px;
+}
+canvas{
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
